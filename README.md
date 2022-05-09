@@ -27,3 +27,5 @@ Outcome : 1은 당뇨병을 의미, 0은 당뇨병이 아님을 의미
 
 Data Set 출처 & 구성
 데이터셋 출처 Pima Indians Diabetes Database | Kaggle https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html
+
+📫 My E-mail : abw2619@icloud.com , My Instagram : frenteBW
